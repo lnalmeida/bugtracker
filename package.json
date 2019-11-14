@@ -1,0 +1,27 @@
+{
+    "name": "bugtracker",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "dev": "nodemon ./index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "@sendgrid/mail": "^6.4.0",
+        "body-parser": "^1.19.0",
+        "ejs": "^2.7.1",
+        "express": "^4.17.1",
+        "google-spreadsheet": "^2.0.8",
+        "jquery": "^3.4.1",
+        "materialize-css": "^1.0.0",
+        "micromodal": "^0.4.2",
+        "sendgrid": "^5.2.3"
+    },
+    "engines": {
+        "node": "10.x"
+    }
+}
