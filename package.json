@@ -16,7 +16,7 @@
         "ejs": "^2.7.1",
         "express": "^4.17.1",
         "google-spreadsheet": "^2.0.8",
-        "jquery": "^3.4.1",
+        "jquery": "^3.5.0",
         "materialize-css": "^1.0.0",
         "micromodal": "^0.4.2",
         "sendgrid": "^5.2.3"
